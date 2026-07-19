@@ -99,16 +99,16 @@ streamlit run main.py
 
 项目截图
 **主页界面**
-![主页界面](images/01_home.png)
+![主页界面](01_home.png)
 
 **上传文档并构建知识库**
-![上传文档](images/02_upload.png)
+![上传文档](02_upload.png)
 
 **问答效果与来源展示**
-![问答效果](images/03_answer.png)
+![问答效果](03_answer.png)
 
 **多轮对话记忆**
-![多轮对话](images/04_history.png)
+![多轮对话](04_history.png)
 
 
 
