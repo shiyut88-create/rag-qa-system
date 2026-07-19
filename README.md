@@ -74,7 +74,7 @@ DeepSeek 大模型生成回答
 ### 1. 克隆项目
 
 ```bash
-git clone https://github.com/你的用户名/rag-qa-system.git
+git clone https://github.com/shiyut88-create/rag-qa-system.git
 cd rag-qa-system
 
 
